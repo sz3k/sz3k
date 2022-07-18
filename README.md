@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+Guess this is where I let you be a fly on the wall of whatever I'm doing, eh?
+
+Maybe soon.
 <!--
 **sz3k/sz3k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
