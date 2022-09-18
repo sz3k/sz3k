@@ -1,19 +1,11 @@
-### Hi there 👋
+# Bet yer lost, aye, pardner?
+Since you're here, you're legally obligated to read my readme (it's right in the title)
 
-Guess this is where I let you be a fly on the wall of whatever I'm doing, eh?
+## Langs
+- Java (need to clear cobwebs)
+- Ruby
+- Rust (WIP)
 
-Maybe soon.
-<!--
-**sz3k/sz3k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- Buy milk
+- Learn Rust :)
